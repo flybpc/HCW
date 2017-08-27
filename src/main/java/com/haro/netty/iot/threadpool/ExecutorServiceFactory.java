@@ -9,7 +9,7 @@ import java.util.concurrent.atomic.AtomicInteger;
  * 
 * @ClassName: ExecutorServiceFactory  
 * @Description: TODO  线程池构造工厂
-* @author 穆书伟
+* @author 李文杰
 * @Email lovewsic@gmail.com
 * @date 2017年4月18日 下午14:14:30
  */

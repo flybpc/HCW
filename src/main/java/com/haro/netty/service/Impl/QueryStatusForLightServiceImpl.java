@@ -8,7 +8,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 /**
  * @ClassName QueryStatusForLightServiceImpl
- * @author 穆书伟
+ * @author 李文杰
  * @description 设备状态灯变化实现类
  * @date 2017/6/19 12:44
  */

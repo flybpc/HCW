@@ -3,7 +3,7 @@ package com.haro.netty.test.pojo;
 import java.util.Date;
 
 /**
- * @author 穆书伟
+ * @author 李文杰
  * @description domain类
  * @date 2017/5/22 18:35
  */

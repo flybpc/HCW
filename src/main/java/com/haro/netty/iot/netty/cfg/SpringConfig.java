@@ -43,7 +43,7 @@ import io.netty.handler.codec.string.StringEncoder;
  * 
 * @ClassName: SpringConfig  
 * @Description: TODO  
-* @author 穆书伟
+* @author 李文杰
 * @Email lovewsic@gmail.com
 * @Date 2017年4月26日 上午10:29:31
  */

@@ -31,7 +31,7 @@ import java.util.Arrays;
  * org.jupiter.transport
  *
  * @ClassName HProtocolHeader
- * @author 穆书伟
+ * @author 李文杰
  * @Email lovewsic@gmail.com
  * @Description HCW传输层协议头
  * @Date 2017/7/18 17:26:21

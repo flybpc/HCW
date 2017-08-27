@@ -7,7 +7,7 @@ import io.netty.channel.ChannelInboundHandlerAdapter;
 import io.netty.channel.SimpleChannelInboundHandler;
 
 /**
- * @author 穆书伟
+ * @author 李文杰
  * @description 设备向服务器发送心跳包，20秒发一次心跳，保持TCP/UDP socket连接(心跳包可确保数据链路的实时建立)
  * 服务器向设备确认心跳包数据
  * @date 2017/6/8 17:22

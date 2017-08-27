@@ -7,7 +7,7 @@ import java.util.Collection;
 import java.util.Map;
 
 /**
- * @author 穆书伟
+ * @author 李文杰
  * @description 集合工具类
  * @date 2017/6/5 0:16
  */

@@ -21,7 +21,7 @@ import java.util.concurrent.TimeUnit;
  * 
 * @ClassName: StringProtocolInitalizer  
 * @Description: TODO  Just a dummy protocol mainly to show the ServerBootstrap being initialized.
-* @author 穆书伟
+* @author 李文杰
 * @Email lovewsic@gmail.com
 * @date 2017年1月13日 上午10:27:24
  */

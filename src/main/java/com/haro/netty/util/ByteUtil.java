@@ -6,7 +6,7 @@ import java.util.zip.Inflater;
  * 
 * @ClassName: ByteUtil  
 * @Description: TODO  Byte 数组管理
-* @author 穆书伟
+* @author 李文杰
 * @Email lovewsic@gmail.com
 * @date 2017年1月18日 下午3:45:16
  */

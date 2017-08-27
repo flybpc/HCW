@@ -17,7 +17,7 @@ import java.util.concurrent.ConcurrentHashMap;
 
 
 /**
- * @author 穆书伟
+ * @author 李文杰
  * @description 序列化工具类(基于Protostuff实现)
  * @date 2017/6/5 0:35
  *

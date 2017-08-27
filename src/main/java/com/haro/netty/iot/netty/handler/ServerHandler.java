@@ -27,7 +27,7 @@ import static com.haro.netty.util.ByteUtil.bytesToHexString;
  * 
 * @ClassName: ServerHandler  
 * @Description: TODO  netty 重要接口
-* @author 穆书伟
+* @author 李文杰
 * @Email lovewsic@gmail.com
 * @date 2017年1月13日 上午10:21:42
  */

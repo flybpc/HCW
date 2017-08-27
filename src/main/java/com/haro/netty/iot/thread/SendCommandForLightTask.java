@@ -7,7 +7,7 @@ import org.slf4j.LoggerFactory;
 
 /**
  * @ClassName SendCommandForLightTask
- * @author 穆书伟
+ * @author 李文杰
  * @description 根据数据库发送灯变化指令
  * @date 2017/6/19 12:46
  */

@@ -1,7 +1,7 @@
 package com.haro.netty.iot.staticOfFinal.proto.common.bean;
 
 /**
- * @author 穆书伟
+ * @author 李文杰
  * @description 封装RPC响应
  * @date 2017/6/5 17:33
  */

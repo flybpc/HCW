@@ -15,7 +15,7 @@ import org.springframework.util.StringUtils;
  * 
  * 类描述：时间操作定义类
  * 
- * @author:  穆书伟
+ * @author:  李文杰
  * @date： 日期：2017-5-23 时间：下午18：13
  * @version 1.0
  */

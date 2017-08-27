@@ -8,7 +8,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * @author 穆书伟
+ * @author 李文杰
  * @description 更新设备状态
  * @date 2017/5/22 18:39
  */

@@ -3,7 +3,7 @@ package com.haro.netty.iot.staticOfFinal.proto.common.util;
 import org.apache.commons.lang3.StringUtils;
 
 /**
- * @author 穆书伟
+ * @author 李文杰
  * @description 字符串工具类
  * @date 2017/6/5 0:04
  */
